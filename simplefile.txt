@@ -1,5 +1,5 @@
-01 line A 
+01 line A (diff on line1)
 02 line B 
-03 line C 
+03 line C (diff on line3)
 04 line D 
 05 line E 
